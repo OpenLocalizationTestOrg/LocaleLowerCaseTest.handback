@@ -1,0 +1,40 @@
+{
+  "Table": {
+    "test\\Test11092017.md.529fbc17dc304de172a99ee4e3067e64e009e139.HT": {
+      "SourceFilename": "test\\Test11092017.md",
+      "XliffHash": "529fbc17dc304de172a99ee4e3067e64e009e139",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\0a15c5dd2a157768d0e264531e8331752bf2c460.f0e4f54585bd4c876d878b852d6d4c40dcae2982.xml"
+    },
+    "test\\SunnyTesting.md.e1c2e53542f5030fc4ec79d5c3f9140060bb43df.HT": {
+      "SourceFilename": "test\\SunnyTesting.md",
+      "XliffHash": "e1c2e53542f5030fc4ec79d5c3f9140060bb43df",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\f22453d91d1f03cc612f1469ab08c6291cb83779.40e0cccfcbcea0acac52bdbce268d87addcd97ba.xml"
+    },
+    "test\\Test`1.md.59f8024676415ba351870fd0c695b8fb86062c8a.HT": {
+      "SourceFilename": "test\\Test`1.md",
+      "XliffHash": "59f8024676415ba351870fd0c695b8fb86062c8a",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\ac4b78a288421be8dc454b4e866298b0957713a0.9b6a78535b2ae5d115e942ff05c91c64974b00da.xml"
+    },
+    "test\\LocaleLowerCaseTest.md.56eee0b40658da5fffb5880db3add14735d9469b.HT": {
+      "SourceFilename": "test\\LocaleLowerCaseTest.md",
+      "XliffHash": "56eee0b40658da5fffb5880db3add14735d9469b",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\db4fc618da24501b0eb2dc0a509d82d8b85b706d.166df78a6d80f075a4d07ff2ca9f851ce494aaa7.xml"
+    },
+    "test\\Test`2.md.2add3356bebb8548369df3fbc1bed972609dc083.HT": {
+      "SourceFilename": "test\\Test`2.md",
+      "XliffHash": "2add3356bebb8548369df3fbc1bed972609dc083",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\964d1280e55571b4feb034ea1447d38b00e07ca7.2cfc5d894c57115fb4d1f01a7e857dd0a2152180.xml"
+    },
+    "test\\Task1253037Test.md.0e8663c10d3ef22a3729984c114cdb5ba88ecb1a.HT": {
+      "SourceFilename": "test\\Task1253037Test.md",
+      "XliffHash": "0e8663c10d3ef22a3729984c114cdb5ba88ecb1a",
+      "TranslationType": 1,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.zh-cn\\master\\e59a73c84510420622ef2203baacb35f03f034d3.3ecdf3a99ff9637514ca27edecfd7f60a0ebdec4.xml"
+    }
+  }
+}
