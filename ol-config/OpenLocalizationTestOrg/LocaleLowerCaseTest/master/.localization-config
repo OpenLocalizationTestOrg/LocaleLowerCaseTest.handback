@@ -2,15 +2,14 @@
    "Filters":[  
       {  
          "Files":[  
-            test/Task1253037Test.md
+            "a.md"
          ],
          "Priorities":[  
             {  
                "Priority":"HT",
                "Locales":[  
                   "de-de"
-               ],
-               "Type":"HT"
+               ]
             }
          ]
       }
